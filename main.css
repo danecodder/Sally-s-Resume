@@ -1,0 +1,10 @@
+body{
+	background-color: Orange
+}
+
+img {
+    display: block;
+    /*0 Tells object to sit in the center of the box.  In this case it is a block box*/
+    /* auto tells the browser to automatically determine the left and right margins*/
+    margin: 0 auto;
+}
